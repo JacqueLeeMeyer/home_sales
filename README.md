@@ -27,6 +27,6 @@ It also included running a query after caching the Spark Dataframe and after par
 
 ### Sources
 
-Course in class work
+Course class work
 
 No additional sources were used 
